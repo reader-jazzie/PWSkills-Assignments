@@ -19,4 +19,4 @@ contactInfo.set("Amanda",{
 });
 
 const getContact=(name)=> {return contactInfo.get(name);}
-console.log(getContact("Jennifer"));
+console.log(getContact("John"));
